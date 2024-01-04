@@ -6,7 +6,7 @@ public class A {
 		
 		System.out.println("Try again");
 		System.out.println("A");
-		System.out.println("First time was a lucky!")
+		System.out.println("First time was a lucky!");
 	}
 
 }
